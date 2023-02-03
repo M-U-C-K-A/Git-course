@@ -1,32 +1,29 @@
-# Titre du projet
+# Cour Git
 _(juste en dessous des badges sympatiques à placer)_
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 Une petite description du projet
 
 ## Pour commencer
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+Voici la base du cour sur git
 
 ### Pré-requis
 
-Ce qu'il est requis pour commencer avec votre projet...
-
-- Programme 1
-- Programme 2
-- etc...
+Il n'y a aucun prérequis pour commencer avec ce projet.
 
 ### Installation
 
-Les étapes pour installer votre programme....
+Pour installer ce projet, suivez les étapes suivantes :
 
-Dites ce qu'il faut faire...
+- Clonez le dépôt sur votre ordinateur en utilisant la commande `git clone https://github.com/yourusername/yourproject.git`
+- Accédez au dossier du projet en utilisant la commande `cd yourproject`
+- Installez les dépendances requises en utilisant la commande `npm install` ou `yarn install`
+- Lancez le projet en utilisant la commande `npm start` ou `yarn start`
 
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
+Après avoir suivi ces étapes, le projet sera installé et prêt à être utilisé sur votre ordinateur.
 
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
 
 ## Démarrage
 
